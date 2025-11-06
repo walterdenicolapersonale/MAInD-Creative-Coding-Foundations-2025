@@ -26,7 +26,7 @@ Starting from the concept of a pinboard, implement a web page that:
 
 
 ## Project description
-PinBoard is an interactive web app for creating, editing, and managing notes. Users can choose between grid or list view, change colours, edit text, and delete or restore notes via modal. The interface is responsive and adapted for mobile devices.
+PinBoard is an interactive web app for creating, editing, and managing notes. Users can choose between grid or list view, change colours, edit text, and delete or restore notes. The interface is responsive and adapted for mobile devices.
 
 
 
