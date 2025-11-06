@@ -5,8 +5,7 @@ Assignments 01
 
 # Pinboard
 Author: Walter De Nicola<br>
-[Pinboard](https://walterdn03.github.io/explorai#)<br>
-[Video](https://walterdn03.github.io/documentazione/registrazione.mov#)
+[Pinboard](https://walterdn03.github.io)<br>
 
 
 
@@ -20,7 +19,9 @@ Starting from the concept of a pinboard, implement a web page that:
 
 
 ## Screenshot
-<img src="documentation/screen01.png" width="500">
+<img src="documentation/screen01.png" width="800">
+<img src="documentation/screen03.png" width="800">
+
 
 
 
@@ -35,7 +36,7 @@ PinBoard is an interactive web app for creating, editing, and managing notes. Us
 |---------------------|-----------|-------------|---------|
 | `updateCategoryView()` | None      | Controls which notes are displayed based on the selected category (“Note” or “Trash”). It also updates UI elements accordingly: changes header text, toggles visibility of the “Add note” button and the view mode controls, and adds/removes the “Restore” button for items in the trash. | `void` |
 
-Most of the application's interactive behavior (creating notes, editing notes, deleting/restoring them, switching layout view, changing text size, and choosing colors) is handled through **click event listeners**. These listeners directly manipulate the DOM and update visual state in real time, rather than returning values, and therefore are not represented as standalone functions.
+Most of the application's interactive behavior (creating notes, editing notes, deleting/restoring them, switching layout view, changing text size, and choosing colors) is handled through click event listeners.
 <br>
 
 ### Event Handlers (Implicit Functions)
