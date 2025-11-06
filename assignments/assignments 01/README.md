@@ -4,7 +4,7 @@ Marco Lurati, Giovanni Profeta<br>
 Assignments 01
 
 # Pinboard
-Author: Walter De Nicola <br>
+Author: Walter De Nicola<br>
 [Pinboard sito](https://walterdenicolapersonale.github.io/MAInD-Creative-Coding-Foundations-2025/assignments/assignments%2001/)<br>
 
 
