@@ -5,7 +5,7 @@ Assignments 01
 
 # Pinboard
 Author: Walter De Nicola<br>
-[Pinboard](https://walterdn03.github.io)<br>
+[Pinboard sito](https://walterdenicolapersonale.github.io/MAInD-Creative-Coding-Foundations-2025/assignments/assignments%2001/)<br>
 
 
 
